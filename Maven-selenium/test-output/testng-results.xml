@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15070" started-at="2018-05-01T12:31:59Z" finished-at="2018-05-01T12:32:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15070" started-at="2018-05-01T12:31:59Z" finished-at="2018-05-01T12:32:14Z">
+      <class name="com.codeNew.Maven_selenium.NewTest">
+        <test-method status="PASS" signature="Test_new2()[pri:0, instance:com.codeNew.Maven_selenium.NewTest@7403c468]" name="Test_new2" duration-ms="13816" started-at="2018-05-01T12:31:59Z" finished-at="2018-05-01T12:32:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_new2 -->
+        <test-method status="PASS" signature="Test_new()[pri:0, instance:com.codeNew.Maven_selenium.NewTest@7403c468]" name="Test_new" duration-ms="15010" started-at="2018-05-01T12:31:59Z" finished-at="2018-05-01T12:32:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_new -->
+      </class> <!-- com.codeNew.Maven_selenium.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
